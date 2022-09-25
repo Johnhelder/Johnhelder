@@ -1,6 +1,6 @@
 ## Oii! Sou John Helder Araújo
-- 👋 Estou atualmente estudando front-end e em busca de oportunidades
-- 🌱 Estudando Javascript
+- 👋 Estou atualmente adquirindo mais conhecimentos em front-end criando projetos e em busca de oportunidades
+- 🌱 Melhorando meu conhecimento em Javascript com projetos
  
  <div>
   

@@ -1,4 +1,4 @@
-## Oii! Sou John Helder
+## Oii! Sou John Helder Araújo
 - 👋 Estou atualmente estudando front-end e em busca de oportunidades
 - 🌱 Estudando Javascript
  

@@ -1,4 +1,4 @@
-## Olá! Sou John Helder Araújo
+## Olá, Sou John Helder Araújo
 - 👋 Estou adquirindo novos conhecimentos em Front-end, diariamente melhorando para ser cada dia 1% melhor 
 - 🌱 Melhorando meus conhecimentos em JavaScript essa linguagem poderosa
  
